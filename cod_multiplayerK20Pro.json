@@ -1,0 +1,221 @@
+{
+	"switchKey": "Key_QuoteLeft",
+	"mouseMoveMap": {
+		"startPos": {
+			"x": 0.57,
+			"y": 0.26
+		},
+		"speedRatioX": 3.25,
+		"speedRatioY": 1.25,
+		"smallEyes": {
+			" comment " : " Little eyes " ,
+			"type": "KMT_CLICK",
+			"key": "Key_Alt",
+			"pos": {
+				"x": 0.895312,
+				"y": 0.319493
+			},
+			"switchMap": false
+		},
+		"speedRatio": 10
+	},
+	"keyMapNodes": [
+		{
+			" comment " : " Steering Wheel " ,
+			"type": "KMT_STEER_WHEEL",
+			"centerPos": {
+				"x": 0.16,
+				"y": 0.75
+			},
+			"leftOffset": 0.1,
+			"rightOffset": 0.1,
+			"upOffset": 0.27,
+			"downOffset": 0.2,
+			"leftKey": "Key_A",
+			"rightKey": "Key_D",
+			"upKey": "Key_W",
+			"downKey": "Key_S"
+		},
+		{
+			"comment": "Reload",
+			"type": "KMT_CLICK",
+			"key": "Key_R",
+			"pos": {
+				"x": 0.785937,
+				"y": 0.863791
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Crouch",
+			"type": "KMT_CLICK",
+			"key": "Key_C",
+			"pos": {
+				"x": 0.847396,
+				"y": 0.929625
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Call air support (large area bombing)" ,
+			"type": "KMT_CLICK",
+			"key": "Key_Q",
+			"pos": {
+				"x": 0.369271,
+				"y": 0.888763
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Activate a small auto-navigation drone" ,
+			"type": "KMT_CLICK",
+			"key": "Key_4",
+			"pos": {
+				"x": 0.41875,
+				"y": 0.886493
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Call reconnaissance aircraft (Locate " ,
+			"type": "KMT_CLICK",
+			"key": "Key_T",
+			"pos": {
+				"x": 0.317188,
+				"y": 0.888763
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Activate special weapon" ,
+			"type": "KMT_CLICK",
+			"key": "Key_E",
+			"pos": {
+				"x": 0.91875,
+				"y": 0.374574
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Grenade withdrawal" ,
+			"type": "KMT_CLICK",
+			"key": "Key_X",
+			"pos": {
+				"x": 0.16875,
+				"y": 0.385925
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Melee Attack" ,
+			"type": "KMT_CLICK",
+			"key": "Key_G",
+			"pos": {
+				"x": 0.764583,
+				"y": 0.609535
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Weapon change 1" ,
+			"type": "KMT_CLICK",
+			"key": "Key_1",
+			"pos": {
+				"x": 0.497396,
+				"y": 0.886967
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Weapon change 2" ,
+			"type": "KMT_CLICK",
+			"key": "Key_2",
+			"pos": {
+				"x": 0.588542,
+				"y": 0.885813
+			},
+			"switchMap": false
+		},
+		{
+			" comment " : "Grenade" ,
+			"type": "KMT_CLICK",
+			"key": "Key_3",
+			"pos": {
+				"x": 0.661458,
+				"y": 0.893303
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Shoot",
+			"type": "KMT_CLICK",
+			"key": "LeftButton",
+			"pos": {
+				"x": 0.848958,
+				"y": 0.758229
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Scope",
+			"type": "KMT_CLICK",
+			"key": "RightButton",
+			"pos": {
+				"x": 0.874479,
+				"y": 0.558456
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Jump",
+			"type": "KMT_CLICK",
+			"key": "Key_Space",
+			"pos": {
+				"x": 0.940104,
+				"y": 0.700341
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Automatic running",
+			"type": "KMT_CLICK",
+			"key": "Key_Shift",
+			"pos": {
+				"x": 0.779167,
+				"y": 0.317821
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Pinpoint",
+			"type": "KMT_CLICK",
+			"key": "Key_P",
+			"pos": {
+				"x": 0.863021,
+				"y": 0.317821
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Pick up item",
+			"type": "KMT_CLICK",
+			"key": "Key_F",
+			"pos": {
+				"x": 0.502604,
+				"y": 0.775255
+			},
+			"switchMap": false
+		},
+		{
+			"comment": "Plant Bomb",
+			"type": "KMT_CLICK",
+			"key": "Key_B",
+			"pos": {
+				"x": 0.447917,
+				"y": 0.683314
+			},
+			"switchMap": false
+		}
+		
+	]
+}
