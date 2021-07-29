@@ -27,3 +27,23 @@ Battle Royale
 - Z: Ropeslide
 - P - Pinpoint
 - L - Paint
+=========================
+
+- W/A/S/D: Move around
+- R: Reload
+- C: Crouch
+- Q: Call air support (large area bombing)
+- 4: Activate a small auto-navigation drone
+- T: Call reconnaissance aircraft (Locate enemies)
+- E: Activate special weapon
+- X: Grenade withdrawal
+- G: Melee Attack
+- 1 & 2: Weapon change
+- 3: Grenade
+- Left click: Shoot
+- Right click: Scope
+- Space: Jump
+- P - Pinpoint
+- Shift - Automatic running
+- F - Pick up item
+- B - Plant Bomb
