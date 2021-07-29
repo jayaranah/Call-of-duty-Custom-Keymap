@@ -1,8 +1,7 @@
 # Call-of-duty-Custom-Keymap
-Custom keymap for call of duty mobile for QtScrcpy v1.7.0 tested in Xiaomi Redmi K20 Pro Premium
+Custom keymap for call of duty mobile for QtScrcpy v1.7.0 tested in Xiaomi Redmi K20 Pro Premium<br/>
 
-Battle Royale
-==========================
+# Battle Royale
 - W/A/S/D - Move around
 - 1/2 - Main Weapon Change
 - 3/4 - Thrown Change/Granade
@@ -27,8 +26,8 @@ Battle Royale
 - Z: Ropeslide
 - P - Pinpoint
 - L - Paint
-=========================
 
+# Multiplayer
 - W/A/S/D: Move around
 - R: Reload
 - C: Crouch
